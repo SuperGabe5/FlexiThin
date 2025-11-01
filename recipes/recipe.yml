@@ -24,7 +24,6 @@ modules:
         - labwc
         - labwc-tweaks
         - remmina-plugins-exec
-        - remmina-plugins-gnome-session
         - remmina-plugins-kwallet
         - remmina-plugins-python
         - remmina-plugins-rdp
