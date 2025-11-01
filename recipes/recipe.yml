@@ -22,7 +22,7 @@ modules:
       packages:
         - "@lxqt-desktop-environment"
         - labwc
-        - labwc-tweaks
+        - lxqt-labwc-session
         - remmina-plugins-exec
         - remmina-plugins-kwallet
         - remmina-plugins-python
