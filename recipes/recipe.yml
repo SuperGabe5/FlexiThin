@@ -35,6 +35,8 @@ modules:
         - openvpn
         - openssh-server
         - sddm
+        - freerdp2
+        - openh264
 
     remove:
       packages:
