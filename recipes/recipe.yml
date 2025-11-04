@@ -20,9 +20,10 @@ modules:
   - type: dnf
     install:
       packages:
-        - "@lxqt-desktop-environment"
-        - labwc
-        - lxqt-labwc-session
+        - "@lxde-desktop-environment"
+        #- "@lxqt-desktop-environment"
+        #- labwc
+        #- lxqt-wayland-session
         - remmina-plugins-exec
         - remmina-plugins-kwallet
         - remmina-plugins-python
